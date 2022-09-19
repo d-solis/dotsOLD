@@ -4,11 +4,6 @@
 ## 🌿 Information
 My dotfiles, 11 different rices for BSPWM and Polybar. With a Rice selector to change on the fly. 
 
-https://user-images.githubusercontent.com/67278339/179444283-d5a4bc48-a9c7-4a91-a144-6c34d11347c8.mp4
- 
-## Rice Menu
-<img src="assets/rs.webp" alt="Rice Menu" align="right" width="400px">
-
 |DIstro|[Arch](https://archlinux.org/)|
 |:---:|:---:|
 |WM|[BSPWM](https://github.com/baskerville/bspwm)|
